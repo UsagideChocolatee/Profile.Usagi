@@ -11,7 +11,7 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
-
+import Education from "./Components/Education"; // Fix: Remove the angle brackets around Education
 import "./styles.css";
 
 /**
@@ -45,6 +45,7 @@ const App = () => {
       <Home name={siteProps.name} title={siteProps.title} />
       <About />
       <Portfolio />
+      <Education /> {/* Fix: Remove the angle brackets around Education */}
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
   );
