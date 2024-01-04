@@ -35,21 +35,6 @@ const projectList = [
     description: "Collaboration to create all the graphic pieces of the event by country.",
     url: "https://www.instagram.com/p/C07yUa4A8ZO/",
   },
-  {
-    title: "",
-    description: "",
-    url: "",
-  },
-  {
-    title: "",
-    description: "",
-    url: "",
-  },
-  {
-    title: "",
-    description: "",
-    url: "",
-  },
 ];
 
 const Portfolio = () => {
