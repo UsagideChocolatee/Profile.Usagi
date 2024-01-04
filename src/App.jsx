@@ -26,8 +26,8 @@ import "./styles.css";
 const siteProps = {
   name: "Isabella Mejía Serna",
   title: "Microsoft Student Ambassador",
-  email: "isabella.mejiaserna@studentambassadors.com",
-  gitHub: "UsagideChocolate",
+  email: "Isabella.MejiaSerna@studentambassadors.com",
+  gitHub: "UsagideChocolatee",
   instagram: "Bella_merakii",
   linkedIn: "isabella-mejia-serna-9872b92a6",
   medium: "",
